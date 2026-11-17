@@ -28,7 +28,6 @@ Um guia para quem quer entrar em **DevSecOps**, mas não sabe em que ordem estud
 - [Projeto prático — Do código à segurança](#-projeto-prático--do-código-à-segurança)
 - [Sequência sugerida de estudos](#-sequência-sugerida-de-estudos)
 - [O verdadeiro roadmap](#-o-verdadeiro-roadmap)
-- [Série DevSecOps do Zero](#-série-devsecops-do-zero)
 - [Sobre este material](#-sobre-este-material)
 - [Autora](#-autora)
 
@@ -584,22 +583,6 @@ MELHORAR
 > Você não precisa saber tudo para começar. Construa uma base, faça projetos, entenda os problemas, pratique a análise de vulnerabilidades e automatize o que fizer sentido.
 >
 > **Do código à segurança. 💻🔐**
-
----
-
-# 🎥 Série DevSecOps do Zero
-
-- [ ] O que é DevSecOps?
-- [ ] Roadmap DevSecOps
-- [ ] Como funciona uma pipeline DevSecOps?
-- [ ] SAST x DAST x SCA
-- [ ] CVE, CWE e CVSS
-- [ ] Shift Left
-- [ ] Dependências vulneráveis
-- [ ] Secret Scanning
-- [ ] Segurança de containers
-- [ ] Cloud Security
-- [ ] Construindo uma pipeline DevSecOps na prática
 
 ---
 
